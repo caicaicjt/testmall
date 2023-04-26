@@ -1,41 +1,111 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T07:55:22.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.1.8" etag="VVrrmjuIxvFDA1n3dpfr" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T09:30:24.402Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="84GwR0voIMQZ2vGn3bih" version="21.2.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1223" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="583" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="710" height="290" as="geometry" />
-        </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="50" width="180" height="70" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
+        <mxCell id="9EZ-KONDML-prVSHsC6n-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9EZ-KONDML-prVSHsC6n-1" target="9EZ-KONDML-prVSHsC6n-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-14">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="40" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-16" edge="1">
+        <mxCell id="9EZ-KONDML-prVSHsC6n-1" value="公共模板管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="127" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9EZ-KONDML-prVSHsC6n-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9EZ-KONDML-prVSHsC6n-8" target="9EZ-KONDML-prVSHsC6n-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-16">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-17" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-18" edge="1">
+        <mxCell id="9EZ-KONDML-prVSHsC6n-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="264" as="sourcePoint" />
+            <mxPoint x="520" y="321" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="287" />
+              <mxPoint x="520" y="287" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9EZ-KONDML-prVSHsC6n-8" value="Vue Router路由管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="204" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9EZ-KONDML-prVSHsC6n-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9EZ-KONDML-prVSHsC6n-60" target="9EZ-KONDML-prVSHsC6n-67">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-18">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="490" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
+        <mxCell id="9EZ-KONDML-prVSHsC6n-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9EZ-KONDML-prVSHsC6n-60" target="9EZ-KONDML-prVSHsC6n-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9EZ-KONDML-prVSHsC6n-60" value="页面是否刷新" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="246.5" y="309" width="141" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="9EZ-KONDML-prVSHsC6n-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9EZ-KONDML-prVSHsC6n-67" target="9EZ-KONDML-prVSHsC6n-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="475" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9EZ-KONDML-prVSHsC6n-67" value="发送网络请求获取最新数据" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="257" y="425" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9EZ-KONDML-prVSHsC6n-69" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="323" y="390" width="30" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="9EZ-KONDML-prVSHsC6n-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9EZ-KONDML-prVSHsC6n-83" target="9EZ-KONDML-prVSHsC6n-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9EZ-KONDML-prVSHsC6n-83" value="数据增删改查" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="494" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9EZ-KONDML-prVSHsC6n-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9EZ-KONDML-prVSHsC6n-88" target="9EZ-KONDML-prVSHsC6n-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9EZ-KONDML-prVSHsC6n-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9EZ-KONDML-prVSHsC6n-88" target="9EZ-KONDML-prVSHsC6n-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9EZ-KONDML-prVSHsC6n-88" value="公共模板数据管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="321" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9EZ-KONDML-prVSHsC6n-91" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="398" y="321" width="30" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="9EZ-KONDML-prVSHsC6n-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9EZ-KONDML-prVSHsC6n-92" target="9EZ-KONDML-prVSHsC6n-95">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="690" y="434" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9EZ-KONDML-prVSHsC6n-92" value="Vuex状态管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="321" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9EZ-KONDML-prVSHsC6n-94" value="数据保存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="573" y="323" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="9EZ-KONDML-prVSHsC6n-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9EZ-KONDML-prVSHsC6n-95" target="9EZ-KONDML-prVSHsC6n-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9EZ-KONDML-prVSHsC6n-95" value="数据表格展示" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="404" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9EZ-KONDML-prVSHsC6n-98" value="提供数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="402" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="9EZ-KONDML-prVSHsC6n-101" value="更新数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="402" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="9EZ-KONDML-prVSHsC6n-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9EZ-KONDML-prVSHsC6n-102" target="9EZ-KONDML-prVSHsC6n-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9EZ-KONDML-prVSHsC6n-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9EZ-KONDML-prVSHsC6n-102" target="9EZ-KONDML-prVSHsC6n-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9EZ-KONDML-prVSHsC6n-102" value="权限认证" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="448" y="562" width="144" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="9EZ-KONDML-prVSHsC6n-105" value="未通过" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="635" width="54" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="9EZ-KONDML-prVSHsC6n-106" value="弹窗提示" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="665.5" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
